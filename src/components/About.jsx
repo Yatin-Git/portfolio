@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-fit bg-gradient-to-b from-gray-800 to-black text-white"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div>
@@ -14,10 +14,10 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Bachelors in Computer Engineering . 1+ yrs of experience. Ability to
-          work with Java, SpringBoot, JavaScript, ReactJs. Can work well under
-          pressure and make the best of any situation. Passionate individual
-          with great interpersonal and communication skills.
+          Bachelors in Computer Engineering. Over 1 year of experience. Ability
+          to work with Java, SpringBoot, JavaScript, ReactJs. Can work well
+          under pressure and make the best of any situation. Passionate
+          individual with great interpersonal and communication skills.
         </p>
 
         <br />
